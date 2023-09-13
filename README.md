@@ -4,9 +4,9 @@
 
 ## 免责声明
 
-1. 本程序由一位 **高一摆烂美术生** 开发( **15周岁未成年** ),若使用者滥用本项目,本人 **无需承担** 任何法律责任.  
+1. 本程序若使用者滥用本项目,本人 **无需承担** 任何法律责任.  
 2. 本程序仅供娱乐,源码全部开源,**禁止滥用** 和二次 **贩卖盈利**.  **禁止用于商业用途**.
-3. 本人有 **抑郁症病史**,若本人遭受任何形式的网络暴力(包括但不限于发送淫/秽血/腥图片,问候我家人),并出现 **极端行为**,一切都是 **本人的错** 和大家无关.
+
 
 ## Feature
 
@@ -42,7 +42,7 @@
    ![](https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/cmd1.png)
    
    3. 确认 cmd 路径是 EXE 所在路径后,cmd 输入:`smsboom_pyinstall.exe`,若出现命令提示,则说明脚本已正常运行. 
-   ![](https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/cmd2.png)
+   ![exe](https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/cmd2.png)
 
    4. 使用前必须更新一遍最新接口
     ```shell
@@ -263,27 +263,11 @@ Options:
 
 默认监听 *0.0.0.0:9090* 地址,浏览器访问[http://127.0.0.1:9090/admin/](http://127.0.0.1:9090/admin/)若无意外,就可以出现前端调试界面。
 
-![](img/webui-test.png)  
-![](img/webui-test-2.png)  
+ 
 
 ## 赞助
-[爱发电🔗](https://afdian.net/@smsboom)  
 
 
-<!-- **微/信 && 支/付宝🔗**  
-<center class="half">
-<img src="https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/wx_pay.jpg" width=40%/>
-<img src="https://cdn.jsdelivr.net/gh/AdminWhaleFall/SMSBoom@master/img/aliyun_pay.jpg" width=40%/>
-</center> -->
-
-> 赞助的金额将用于我每月治疗 **抑/郁症** 的支出.谢谢大家的支持和鼓励! **比心ing**
-
-<center class="half">
-根据中国相关法律法规,该图片不予展示.
-<img src="img/mypic.png" width=70%/>
-</center>
-
-> ~~丑陋的自拍 )逃~~
 
 ## Star ♥ 趋势图
 
@@ -291,14 +275,3 @@ Options:
 
 ## ✨讨论
 
-欢迎加入讨论对项目提出问题和建议！！！mua!
-
-### 企鹅🐧群
-> 企鹅群不允许讨论相关敏感信息!违者上飞机票✈
-
-![企鹅群 QR](https://cdn.jsdelivr.net/gh/AdminWhaleFall/Pic@master/img/20220409151539.jpg)
-
-### Telegram Channel (TG群组)
-> 涉及敏/感信息,政/治,民/主运动话题请到 **TG群聊**
-
-[SMSBoomPro](https://t.me/SMSBoomPro)
