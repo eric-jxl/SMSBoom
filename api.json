@@ -816,5 +816,14 @@
             "to": "[phone]",
             "sms_type": "sms_registration"
         }
+    },
+    {
+        "desc": "AskanyAI",
+        "url": "https://askmany.cn/api/oauth2/sendsms?phonenumber=[phone]",
+        "method": "GET",
+        "header": {
+            "X-Client": "web",
+            "X-Client-Version": "2.0.0"
+        }
     }
 ]
